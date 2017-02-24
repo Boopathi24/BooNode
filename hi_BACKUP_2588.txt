@@ -1,0 +1,6 @@
+hi edited the text file
+<<<<<<< HEAD
+boopathi kavimani daaaaa
+=======
+boopathi kavimani daaaaaaa afadsf asdfda
+>>>>>>> madhunode
